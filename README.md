@@ -1,15 +1,17 @@
+<div align="center">
+  <img src="header.png" alt="Header Banner" width="100%">
+</div>
+
 # SAHAN ADITHYA
 
 ---
 
 ### Computer Science Undergraduate
-
-
-Design. Develop. Deploy.
+**Design. Develop. Deploy.**
 
 ---
 
-## Languages and Tools:
+## 🛠 Languages and Tools:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -19,7 +21,7 @@ Design. Develop. Deploy.
 
 ---
 
-## Tech Stack (Detailed)
+## 🚀 Tech Stack (Detailed)
 
 #### Software & Web
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
