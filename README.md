@@ -20,7 +20,7 @@ Design. Develop. Deploy.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,git,html,java,js,figma,react,py&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,css,git,html,java,js,figma,react&perline=12" />
   </a>
 </p>
 
@@ -33,6 +33,15 @@ Design. Develop. Deploy.
     <img src="https://skillicons.dev/icons?i=raspberrypi&perline=12" />
   </a>
 </p>
+
+---
+
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dahamdissanayake&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages" />
+</div>
 
 
 
