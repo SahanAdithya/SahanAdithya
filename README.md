@@ -2,8 +2,8 @@
   <img src="header.png" alt="Header Banner" width="100%">
 
   <p align="center">
-    <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sahan-adithya-32a941359/)"><img src="https://img.shields.io/badge/LinkedIn-3077B0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="[YOUR_INSTAGRAM_URL](https://www.instagram.com/__.sahan.adithya.__/)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/sahan-adithya-32a941359/"><img src="https://img.shields.io/badge/LinkedIn-3077B0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/__.sahan.adithya.__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   </p>
 </div>
 
